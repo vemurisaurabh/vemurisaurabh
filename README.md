@@ -7,7 +7,7 @@
 
 - 🤝 I’m currently working at **kore.ai**
 
-- 💬 Ask me about **React.js, Javascript and Python**
+- 💬 Ask me about **React.js, Javascript, Data Structures, C++ and Python**
 
 - 📫 How to reach me **saurabhwmkk@gmail.com**
 
